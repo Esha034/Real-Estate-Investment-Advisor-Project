@@ -144,7 +144,7 @@ with tab3:
     st.subheader("📁 Export Cleaned Dataset & Summary Report")
 
     st.write("### Download Cleaned Processed Dataset")
-    st.download_button(" Download CSV", data=open("../outputs/cleaned_india_housing_prices.csv", "rb"), file_name="cleaned_india_housing_prices.csv")
+    st.download_button(" Download CSV", data=open("outputs/cleaned_india_housing_prices.csv", "rb"), file_name="cleaned_india_housing_prices.csv")
 
     st.write("### Summary of Findings")
     st.write("- ✔ Market distribution visualized with dynamic charts")
