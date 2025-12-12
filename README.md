@@ -28,7 +28,7 @@ This project provides an **interactive, data-driven Real Estate Investment Advis
 
 - **Data Preprocessing**  
 - **Exploratory Data Analysis (EDA)**  
-- **Interactive Streamlit Dashboard **  
+- **Interactive Streamlit Dashboard**  
 
 The tool enables users to:
 
@@ -182,5 +182,6 @@ Core features include:
 This project demonstrates the power of **data-driven real estate decision-making** using  
 cleaning → analysis → visualization → dashboarding.  
 A complete end-to-end pipeline!  
+
 
 
