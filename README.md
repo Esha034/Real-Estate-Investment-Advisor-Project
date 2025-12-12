@@ -110,7 +110,7 @@ Core features include:
 - Property-level KPIs  
 - Market-level KPIs  
 - Price growth estimations (rule-based)  
-- 10+ dynamic Plotly charts  
+- 8+ dynamic Plotly charts  
 - City comparison & investment scores  
 - Data export option  
 - Completely responsive UI  
@@ -178,10 +178,11 @@ Core features include:
 
 ---
 
-## 💜 Final Note  
+##  Final Note  
 This project demonstrates the power of **data-driven real estate decision-making** using  
 cleaning → analysis → visualization → dashboarding.  
 A complete end-to-end pipeline!  
+
 
 
 
