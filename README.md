@@ -1,4 +1,4 @@
-# 🏡 Real Estate Investment Advisor Dashboard  
+#  Real Estate Investment Advisor Dashboard  
 ### **A Data Preprocessing + EDA + Streamlit Dashboard Project**
 
 
@@ -7,7 +7,7 @@
 
 ---
 
-## ⭐ 1. Executive Summary  
+##  1. Executive Summary  
 
 ### **Business Problem**  
 India’s real estate market is vast, unstructured, and highly variable across cities and property types.  
@@ -41,7 +41,7 @@ The tool enables users to:
 
 ---
 
-## ⭐ 2. Business Problem  
+##  2. Business Problem  
 
 **Stakeholders:**  
 ✔ Home buyers  
@@ -61,7 +61,7 @@ This dashboard solves all these questions **without machine learning**, using **
 
 ---
 
-## ⭐ 3. Methodology  
+##  3. Methodology  
 
 ### **A. Data Preprocessing**
 Performed in: `notebooks/01.Data Preprocessing.ipynb`
@@ -117,7 +117,7 @@ Core features include:
 
 ---
 
-## ⭐ 4. Skills Used  
+##  4. Skills Used  
 
 ### **Programming & Tools**
 - Python  
@@ -140,7 +140,7 @@ Core features include:
 
 ---
 
-## ⭐ 5. Insights & Business Recommendations  
+##  5. Insights & Business Recommendations  
 
 ### **Key Insights**
 - Cities show **high variation in price per SqFt**, indicating demand and living standards.  
@@ -166,9 +166,9 @@ Core features include:
 
 ---
 
-## ⭐ 6. Next Steps  
+##  6. Next Steps  
 
-### 🚀 Future Enhancements
+###  Future Enhancements
 - Add ML-based price prediction  
 - Add time-series based appreciation model  
 - Add locality heatmaps (GeoPlot)  
@@ -182,6 +182,7 @@ Core features include:
 This project demonstrates the power of **data-driven real estate decision-making** using  
 cleaning → analysis → visualization → dashboarding.  
 A complete end-to-end pipeline!  
+
 
 
 
